@@ -1,3 +1,3 @@
-module go-mod-say-hello
+module github.com/silverhand7/go-mod-say-hello
 
 go 1.19
