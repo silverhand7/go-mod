@@ -1,4 +1,4 @@
-package go_mod_say_hello
+package go_mod
 
 func SayHello() string {
 	return "Hello"
